@@ -74,4 +74,4 @@ async def spamcustom(interaction: discord.Interaction, text: str):
     except Exception as e:
         print(f"Unexpected error")
 
-bot.run("YOUR BOT TOKEN")
+bot.run("MTQ0ODU0NTk2MDY0Nzk4MzE5NA.Gqo8ge.0sC0xJ_haOtokOVL3PiHEihU6FSOPvIltwF-v8")
